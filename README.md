@@ -1,4 +1,4 @@
 # Deep-new-repo
 This  is my new Repository.
 <br>
-Author - DEEP KHATRI
+Author - DEEP KHATRI Dk
